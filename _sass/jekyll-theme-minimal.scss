@@ -5,7 +5,7 @@ body {
   background-color: #121212; // Dark background
   color: #e0e0e0; // Light gray text
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", "Helvetica, Arial", "sans-serif";
   font-weight:400;
 }
 // Styling for header
@@ -27,7 +27,7 @@ header h1 {
 }
 
 header p {
-  color: #555; // Description color
+  color: #d4d4d4; // Description color
   margin-top: 5px;
   font-size: 1rem;
 }
@@ -38,7 +38,7 @@ header p {
   padding-left: 10px; // Adjust padding as needed for spacing
 
   p {
-      color: #555; // Description color
+      color: #d4d4d4; // Description color
       font-size: 1rem;
       margin-bottom: 15px; // Space between description and social links
       text-align: left; // Left-aligned bio text
