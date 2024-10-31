@@ -5,7 +5,9 @@ title: Jitesh Majety - Software Engineer
 
 # Jitesh Majety
 
-**Software Engineer | AWS Certified Developer | IBM Certified Data Science Professional**
+**Software Engineer**  
+**AWS Certified Developer**  
+**IBM Certified Data Science Professional**
 
 Email: jmajety@gmail.com  
 Phone: 480-806-7932  
@@ -79,7 +81,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 
 - **Master of Engineering in Software Engineering**  
   *University of Maryland, College Park*  
-  Expected Graduation: **May 2024**
+  Graduation: **May 2024**
 
 ---
 

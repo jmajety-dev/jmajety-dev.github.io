@@ -8,6 +8,62 @@ body {
   color:#727272;
   font-weight:400;
 }
+// Styling for header
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+header img {
+  width: 100px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+header h1 {
+  color: #1a73e8; // Customize as needed
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+header p {
+  color: #555; // Description color
+  margin-top: 5px;
+  font-size: 1rem;
+}
+
+// Social icons styling
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
+
+  a {
+      color: inherit;
+      transition: color 0.3s ease;
+
+      &:hover {
+          color: #1a73e8; // Customize hover color for LinkedIn
+      }
+
+      &.linkedin {
+          color: #0e76a8;
+      }
+
+      &.github {
+          color: #333;
+      }
+
+      &.instagram {
+          color: #C13584;
+      }
+  }
+
+  .fa {
+      font-size: 1.5em; // Adjust icon size as needed
+  }
+}
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
