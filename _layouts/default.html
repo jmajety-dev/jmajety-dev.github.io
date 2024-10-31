@@ -21,20 +21,22 @@
             {% if site.logo %}
                 <img src="{{ site.logo | relative_url }}" alt="Logo" style="width: 100px; border-radius: 50%; margin-top: 10px;">
             {% endif %}
-
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-            <div class="social-links">
-              <a href="https://www.linkedin.com/in/jitesh-majety/" target="_blank" class="linkedin">
-                  <i class="fab fa-linkedin fa-2x"></i>
-              </a>
-              <a href="https://github.com/jmajety-dev" target="_blank" class="github">
-                  <i class="fab fa-github fa-2x"></i>
-              </a>
-              <a href="https://instagram.com/jiteshmajety" target="_blank" class="instagram">
-                  <i class="fab fa-instagram fa-2x"></i>
-              </a>
-          </div>
+            <div class="bio-section">
+              <p>{{ site.description | default: site.github.project_tagline }}</p>
+          
+              <!-- Social Links Vertically Aligned -->
+              <div class="social-links-vertical">
+                  <a href="https://www.linkedin.com/in/jitesh-majety/" target="_blank" class="linkedin">
+                      <i class="fab fa-linkedin fa-2x"></i> LinkedIn
+                  </a>
+                  <a href="https://github.com/jmajety-dev" target="_blank" class="github">
+                      <i class="fab fa-github fa-2x"></i> GitHub
+                  </a>
+                  <a href="https://instagram.com/YOUR_INSTAGRAM_PROFILE" target="_blank" class="instagram">
+                      <i class="fab fa-instagram fa-2x"></i> Instagram
+                  </a>
+              </div>
+          </div>                   
           
             {% if site.github.is_project_page %}
             <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
