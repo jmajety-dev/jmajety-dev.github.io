@@ -45,10 +45,20 @@ header p {
   }
 }
 
+.left-section {
+  max-width: 250px; // Set a suitable width for the left panel
+  padding-right: 20px; // Add space between left panel and main content
+  border-right: 1px solid #e0e0e0; // Add a subtle border to separate sections
+}
+
 .vertical-nav {
-  margin: 15px 0;
-  padding-left: 10px;
-  border-left: 2px solid #ccc;
+  margin: 20px 0;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; // Align links to the left
+  font-size: 1rem;
+  color: #333;
 
   ul {
       list-style: none;
@@ -62,7 +72,6 @@ header p {
 
   a {
       text-decoration: none;
-      font-size: 1rem;
       color: #333;
       transition: color 0.3s;
 
