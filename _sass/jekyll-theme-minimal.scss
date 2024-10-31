@@ -45,11 +45,6 @@ header p {
   }
 }
 
-.left-section {
-  max-width: 250px; // Set a suitable width for the left panel
-  padding-right: 20px; // Add space between left panel and main content
-  border-right: 1px solid #e0e0e0; // Add a subtle border to separate sections
-}
 
 .vertical-nav {
   margin: 20px 0;
@@ -59,6 +54,7 @@ header p {
   align-items: flex-start; // Align links to the left
   font-size: 1rem;
   color: #333;
+  text-align: left; // Left-aligned bio text
 
   ul {
       list-style: none;
