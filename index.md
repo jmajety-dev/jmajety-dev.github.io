@@ -17,13 +17,15 @@ Location: Hyattsville, MD
 
 ---
 
-## About Me
+# About Me
+<a id="about-me"></a>
 
 Innovative Software Engineer with a strong foundation in software development, data engineering, and cloud solutions. Skilled in building big data and machine learning applications using PySpark, Python, AWS, and Terraform. Known for delivering secure, scalable solutions and streamlining processes. A dedicated, independent developer and adaptable team player, seeking roles with challenging tasks that encourage growth and development, especially in machine learning.
 
 ---
 
-## Skills & Qualifications
+# Skills & Qualifications
+<a id="skills"></a>
 
 - **Programming Languages**: Java, C, Python, C++, Scala, HTML, CSS, JavaScript, C#, PHP, ABAP, Linux
 - **Frameworks**: React, Flask, Node.js, Django, PySpark, Hadoop, REST API, Terraform, Snowflake
@@ -34,7 +36,8 @@ Innovative Software Engineer with a strong foundation in software development, d
 
 ---
 
-## Work Experience
+# Work Experience
+<a id="work-experience"></a>
 
 ### Software Engineer | Traffic Safety and Operations Lab
 *University of Maryland, College Park*  
@@ -56,7 +59,8 @@ Innovative Software Engineer with a strong foundation in software development, d
 
 ---
 
-## Projects
+# Projects
+<a id="projects"></a>
 
 ### Norton Health Solution
    - Implemented a secure cloud architecture for a health facility using **Terraform**, including cross-regional backups with **AWS Snapshots** and a HIPAA and PCI-compliant firewall, reducing deployment time by 30% and data recovery time by 40%.
@@ -79,6 +83,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 ---
 
 ## Education
+<a id="education"></a>
 
 - **Master of Engineering in Software Engineering**  
   *University of Maryland, College Park*  

@@ -44,6 +44,34 @@ header p {
       text-align: left; // Left-aligned bio text
   }
 }
+
+.vertical-nav {
+  margin: 15px 0;
+  padding-left: 10px;
+  border-left: 2px solid #ccc;
+
+  ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+  }
+
+  li {
+      margin: 10px 0;
+  }
+
+  a {
+      text-decoration: none;
+      font-size: 1rem;
+      color: #333;
+      transition: color 0.3s;
+
+      &:hover {
+          color: #1a73e8;
+      }
+  }
+}
+
 .social-links-vertical {
   display: flex;
   flex-direction: column;
