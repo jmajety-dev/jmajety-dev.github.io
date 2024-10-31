@@ -9,7 +9,6 @@ title: Jitesh Majety - Software Engineer
 
 **AWS Certified Developer**  
 **IBM Certified Data Science Professional**
-**IBM Certified Full Stack Engineer Professional**
 **AWS Certified Cloud Practioner**
 
 Email: jmajety@gmail.com  
