@@ -5,9 +5,12 @@ title: Jitesh Majety - Software Engineer
 
 # Jitesh Majety
 
-**Software Engineer**  
+## Software Engineer
+
 **AWS Certified Developer**  
 **IBM Certified Data Science Professional**
+**IBM Certified Full Stack Engineer Professional**
+**AWS Certified Cloud Practioner**
 
 Email: jmajety@gmail.com  
 Phone: 480-806-7932  
@@ -60,7 +63,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 ### Norton Health Solution
    - Implemented a secure cloud architecture for a health facility using **Terraform**, including cross-regional backups with **AWS Snapshots** and a HIPAA and PCI-compliant firewall, reducing deployment time by 30% and data recovery time by 40%.
 
-### YouTube Data Analysis | End-to-End Data Engineering Project
+### YouTube Data Analysis | Engineering Project
    - Leveraged **Python** and **PySpark** to analyze data from 200 YouTube videos daily, providing behavioral insights into user trends. Utilized **AWS Athena**, **Glue**, **Redshift**, **S3**, **IAM**, **Lambda**, and **QuickSight** for a complete data pipeline from ingestion to visualization.
 
 ### Twitter Data Pipeline using Airflow

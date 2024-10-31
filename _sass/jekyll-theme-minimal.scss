@@ -34,53 +34,67 @@ header p {
 
 // Bio section alignment
 .bio-section {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start; // Align content to the left
   margin-top: 20px;
-  padding-left: 20px; // Adjust padding as needed
+  padding-left: 10px; // Adjust padding as needed for spacing
 
   p {
       color: #555; // Description color
       font-size: 1rem;
       margin-bottom: 15px; // Space between description and social links
+      text-align: left; // Left-aligned bio text
+  }
+}
+
+.certifications {
+  max-width: 50%;
+  text-align: right;
+
+  h3 {
+      font-size: 1.2em;
+      margin-bottom: 10px;
   }
 
-  .social-links-vertical {
+  div {
+      margin-top: 10px;
+  }
+} Social links aligned vertically on the left side
+.social-links-vertical {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 15px;
+
+  a {
+      color: inherit;
+      text-decoration: none;
+      font-size: 0.9rem; // Smaller text size to match icon
       display: flex;
-      flex-direction: column;
-      gap: 10px;
+      align-items: center;
+      gap: 6px; // Space between icon and text
 
-      a {
-          color: inherit;
-          text-decoration: none;
-          font-size: 1rem;
-          display: flex;
-          align-items: center;
-          gap: 8px;
+      &:hover {
+          color: #1a73e8;
+      }
 
-          &:hover {
-              color: #1a73e8;
-          }
+      &.linkedin {
+          color: #0e76a8;
+      }
 
-          &.linkedin {
-              color: #0e76a8;
-          }
+      &.github {
+          color: #333;
+      }
 
-          &.github {
-              color: #333;
-          }
+      &.instagram {
+          color: #C13584;
+      }
 
-          &.instagram {
-              color: #C13584;
-          }
-
-          .fa {
-              font-size: 1.5em;
-          }
+      .fa {
+          font-size: 1.2em; // Reduced icon size
       }
   }
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
