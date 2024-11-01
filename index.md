@@ -151,6 +151,9 @@ Innovative Software Engineer with a strong foundation in software development, d
     <a href="https://aws.amazon.com/" target="_blank" title="AWS">
         <i class="fab fa-aws" style="font-size: 2em; color: #FF9900;"></i>
     </a>
+    <a href="https://www.terraform.io/" target="_blank" title="Terraform">
+        <i class="fas fa-tools" style="font-size: 2em; color: #623CE4;"></i> <!-- Using tools icon for Terraform if no SVG available -->
+    </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
       <img src="/assets/icons/flask.svg" alt="Flask" width="25" height="25" style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
     </a>
