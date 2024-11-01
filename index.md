@@ -99,6 +99,6 @@ Innovative Software Engineer with a strong foundation in software development, d
 ## Connect with Me
 - **LinkedIn**: [linkedin.com/in/jitesh-majety](https://www.linkedin.com/in/jitesh-majety/)
 - **GitHub**: [github.com/jmajety-dev](https://github.com/jmajety-dev)
-- **Portfolio**: [jmajety-dev.github.io](http://jmajety-dev.github.io/)
+<!-- - **Portfolio**: [jmajety-dev.github.io](http://jmajety-dev.github.io/) -->
 
 Thank you for visiting! Feel free to explore my projects and connect for any collaboration opportunities or inquiries.
