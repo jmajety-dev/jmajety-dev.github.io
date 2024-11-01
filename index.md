@@ -146,10 +146,10 @@ Innovative Software Engineer with a strong foundation in software development, d
         <i class="fab fa-react" style="font-size: 2em; color: #61DAFB;"></i>
     </a>
     <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" title="PySpark">
-        <img src="/assets/icons/apache_spark.svg" alt="PySpark" width="35" height="35">
+        <img src="/assets/icons/apache_spark.svg" alt="PySpark" width="30" height="30">
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-      <img src="/assets/icons/flask.svg" alt="Flask" width="35" height="35" style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
+      <img src="/assets/icons/flask.svg" alt="Flask" width="30" height="30" style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
     </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
         <img src="/assets/icons/c.svg" alt="C" width="35" height="35">
