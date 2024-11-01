@@ -12,7 +12,7 @@ title: Jitesh Majety - Software Engineer
 Email: jmajety@gmail.com
 
 Location: Hyattsville, MD  
-[LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev) | [Resume](https://drive.google.com/file/d/10UBI3R8UvKxL5eEExIsqVDl5gbBxOtnQ/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev) | [Resume](https://drive.google.com/file/d/1tr4Mb-mkbfjkZyLMaSJjBFZYQc0J3wyV/view?usp=sharing)
 
 ---
 
