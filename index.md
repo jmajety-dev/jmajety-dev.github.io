@@ -5,16 +5,13 @@ title: Jitesh Majety - Software Engineer
 
 # Jitesh Majety
 
-**AWS Certified Developer**  
-**IBM Certified Data Science Professional**
-**IBM Certified Full Stack Engineer Professional**
-**AWS Certified Cloud Practioner**
+[AWS Certified Developer](https://www.credly.com/badges/bd0a5181-9ed3-4301-a913-1e6b34c9f91c/public_url)
+[IBM Certified Data Science Professional](https://www.credly.com/badges/7e44a12f-55dc-4c7c-8c9f-7499f10aff2c/public_url)
 
 Email: jmajety@gmail.com  
-Phone: 480-806-7932  
+<!-- Phone: 480-806-7932   -->
 Location: Hyattsville, MD  
-[LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev) | [Portfolio](http://jmajety-dev.github.io/)
-
+[LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev) 
 ---
 
 # About Me
@@ -99,6 +96,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 ## Connect with Me
 - **LinkedIn**: [linkedin.com/in/jitesh-majety](https://www.linkedin.com/in/jitesh-majety/)
 - **GitHub**: [github.com/jmajety-dev](https://github.com/jmajety-dev)
+- **Email**: [jmajety@terpmail.umd.edu](jmajety@terpmail.umd.edu)
 <!-- - **Portfolio**: [jmajety-dev.github.io](http://jmajety-dev.github.io/) -->
 
 Thank you for visiting! Feel free to explore my projects and connect for any collaboration opportunities or inquiries.

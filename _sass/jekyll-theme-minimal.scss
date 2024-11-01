@@ -76,15 +76,7 @@ header p {
       }
   }
 }
-.vertical-nav a.active::before { // Adds a dash before the active link
-  font-size: 1.2em;
-  color: #d0a8ff; // Lighter purple color for the dash
-}
 
-.vertical-nav a.active {
-  font-weight: bold;
-  color: #ffffff; // White color for the active link text
-}
 
 .social-links-vertical {
   display: flex;
