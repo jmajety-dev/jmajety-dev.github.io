@@ -114,12 +114,79 @@ Innovative Software Engineer with a strong foundation in software development, d
 ### Technical Skills
 <a id="technical"></a>
 
-<p style="display: flex; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
-    <i class="fab fa-python" title="Python" style="font-size: 2em; color: #4B8BBE;"></i>
-    <i class="fab fa-js-square" title="JavaScript" style="font-size: 2em; color: #F7DF1E;"></i>
-    <i class="fas fa-brain" title="TensorFlow" style="font-size: 2em; color: #FF6F00;"></i>
-    <i class="fab fa-aws" title="AWS" style="font-size: 2em; color: #FF9900;"></i>
-    <i class="fas fa-camera" title="OpenCV" style="font-size: 2em; color: #5C3EE8;"></i>
+<p style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+    <a href="https://www.oracle.com/java/" target="_blank" title="Java">
+        <i class="fab fa-java" style="font-size: 2em;"></i>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
+        <i class="fas fa-c" style="font-size: 2em;"></i>
+    </a>
+    <a href="https://www.python.org/" target="_blank" title="Python">
+        <i class="fab fa-python" style="font-size: 2em; color: #4B8BBE;"></i>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" title="C++">
+        <i class="fas fa-cplusplus" style="font-size: 2em;"></i>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+        <i class="fab fa-js-square" style="font-size: 2em; color: #F7DF1E;"></i>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
+        <i class="fab fa-html5" style="font-size: 2em; color: #E34F26;"></i>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
+        <i class="fab fa-css3-alt" style="font-size: 2em; color: #1572B6;"></i>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+        <i class="fas fa-code" style="font-size: 2em; color: #68217A;"></i>
+    </a>
+    <a href="https://www.php.net/" target="_blank" title="PHP">
+        <i class="fab fa-php" style="font-size: 2em; color: #777BB4;"></i>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/ABAP" target="_blank" title="ABAP">
+        <i class="fas fa-database" style="font-size: 2em;"></i>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" title="Linux">
+        <i class="fab fa-linux" style="font-size: 2em; color: #FCC624;"></i>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" title="React">
+        <i class="fab fa-react" style="font-size: 2em; color: #61DAFB;"></i>
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
+        <i class="fas fa-flask" style="font-size: 2em;"></i>
+    </a>
+    <a href="https://nodejs.org/" target="_blank" title="Node.js">
+        <i class="fab fa-node-js" style="font-size: 2em; color: #68A063;"></i>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" title="Django">
+        <i class="fab fa-python" style="font-size: 2em; color: #092E20;"></i>
+    </a>
+    <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" title="PySpark">
+        <i class="fas fa-brain" style="font-size: 2em; color: #FF6F00;"></i>
+    </a>
+    <a href="https://hadoop.apache.org/" target="_blank" title="Hadoop">
+        <i class="fab fa-hubspot" style="font-size: 2em;"></i>
+    </a>
+    <a href="https://aws.amazon.com/s3/" target="_blank" title="AWS S3">
+        <i class="fab fa-aws" style="font-size: 2em; color: #FF9900;"></i>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+        <i class="fas fa-database" style="font-size: 2em; color: #4479A1;"></i>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" title="NoSQL">
+        <i class="fas fa-database" style="font-size: 2em; color: #4DB33D;"></i>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" title="Firebase">
+        <i class="fab fa-google" style="font-size: 2em; color: #FFCA28;"></i>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" title="Git">
+        <i class="fab fa-git" style="font-size: 2em; color: #F05032;"></i>
+    </a>
+    <a href="https://github.com/" target="_blank" title="GitHub">
+        <i class="fab fa-github" style="font-size: 2em; color: #181717;"></i>
+    </a>
+    <a href="https://aws.amazon.com/ec2/" target="_blank" title="AWS EC2">
+        <i class="fab fa-aws" style="font-size: 2em; color: #FF9900;"></i>
+    </a>
 </p>
 
 ---
