@@ -10,7 +10,6 @@ title: Jitesh Majety - Software Engineer
 [**IBM Certified Data Science Professional**](https://www.credly.com/badges/7e44a12f-55dc-4c7c-8c9f-7499f10aff2c/public_url)
 
 Email: jmajety@gmail.com
-
 Location: Hyattsville, MD  
 [LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev) | [Resume](https://drive.google.com/file/d/10UBI3R8UvKxL5eEExIsqVDl5gbBxOtnQ/view?usp=sharing)
 
