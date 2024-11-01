@@ -76,8 +76,7 @@ header p {
       }
   }
 }
-.vertical-nav a.active::before {
-  content: "– "; // Adds a dash before the active link
+.vertical-nav a.active::before { // Adds a dash before the active link
   font-size: 1.2em;
   color: #d0a8ff; // Lighter purple color for the dash
 }
