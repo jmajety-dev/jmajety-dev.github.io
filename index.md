@@ -151,10 +151,10 @@ Innovative Software Engineer with a strong foundation in software development, d
     <a href="https://aws.amazon.com/" target="_blank" title="AWS">
         <i class="fab fa-aws" style="font-size: 2em; color: #FF9900;"></i>
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
+    <!-- <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
       <img src="/assets/icons/flask.svg" alt="Flask" width="25" height="25" style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
+    </a> -->
+    <!-- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
         <img src="/assets/icons/c.svg" alt="C" width="35" height="35">
     </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" title="C++">
@@ -162,8 +162,8 @@ Innovative Software Engineer with a strong foundation in software development, d
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
         <img src="/assets/icons/c-sharp-c.svg" alt="C#" width="35" height="35">
-    </a>
-    <a href="https://aws.amazon.com/emr/" target="_blank" title="AWS EMR">
+    </a> -->
+    <!-- <a href="https://aws.amazon.com/emr/" target="_blank" title="AWS EMR">
         <img src="/assets/icons/AWS-EMR.svg" alt="AWS EMR" width="35" height="35">
     </a>
     <a href="https://aws.amazon.com/ec2/" target="_blank" title="AWS EC2">
@@ -174,7 +174,7 @@ Innovative Software Engineer with a strong foundation in software development, d
     </a>
     <a href="https://aws.amazon.com/athena/" target="_blank" title="AWS Athena">
         <img src="/assets/icons/AWS-Athena.svg" alt="AWS Athena" width="35" height="35">
-    </a>
+    </a> -->
     <a href="https://www.djangoproject.com/" target="_blank" title="Django">
         <img src="/assets/icons/django.svg" alt="Django" width="35" height="35">
     </a>
