@@ -123,6 +123,9 @@ Innovative Software Engineer with a strong foundation in software development, d
     <a href="https://www.python.org/" target="_blank" title="Python">
         <i class="fab fa-python" style="font-size: 2em; color: #4B8BBE;"></i>
     </a>
+    <a href="https://www.terraform.io/" target="_blank" title="Terraform">
+    <img src="/assets/icons/terraform.svg" alt="Terraform" width="35" height="35"><!-- Terraform icon with brand color -->
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
         <i class="fab fa-js-square" style="font-size: 2em; color: #F7DF1E;"></i>
     </a>
@@ -149,9 +152,6 @@ Innovative Software Engineer with a strong foundation in software development, d
     </a>
     <a href="https://aws.amazon.com/" target="_blank" title="AWS">
         <i class="fab fa-aws" style="font-size: 2em; color: #FF9900;"></i>
-    </a>
-    <a href="https://www.terraform.io/" target="_blank" title="Terraform">
-    <img src="/assets/icons/terraform.svg" alt="Terraform" width="35" height="35"><!-- Terraform icon with brand color -->
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
       <img src="/assets/icons/flask.svg" alt="Flask" width="25" height="25" style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
