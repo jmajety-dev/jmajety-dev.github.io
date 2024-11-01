@@ -9,10 +9,9 @@ title: Jitesh Majety - Software Engineer
 
 [**IBM Certified Data Science Professional**](https://www.credly.com/badges/7e44a12f-55dc-4c7c-8c9f-7499f10aff2c/public_url)
 
-Email: jmajety@gmail.com  
-<!-- Phone: 480-806-7932   -->
+Email: jmajety@gmail.com
 Location: Hyattsville, MD  
-[LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev)
+[LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev) | [Resume](https://drive.google.com/file/d/10UBI3R8UvKxL5eEExIsqVDl5gbBxOtnQ/view?usp=sharing)
 
 ---
 
@@ -149,7 +148,7 @@ Innovative Software Engineer with a strong foundation in software development, d
         <img src="/assets/icons/apache_spark.svg" alt="PySpark" width="35" height="35">
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-        <img src="/assets/icons/flask.svg" alt="Flask" width="35" height="35">
+      <img src="/assets/icons/flask.svg" alt="Flask" width="35" height="35" style="background-color: #ffffff; border-radius: 5px; padding: 5px;">
     </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
         <img src="/assets/icons/c.svg" alt="C" width="35" height="35">
