@@ -80,7 +80,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 ### Vacation Recommender
    - Designed a recommendation website using **HTML**, **CSS**, **JavaScript**, and **MySQL**, reducing selection time for users from 30 minutes to 30 seconds. Deployed on **AWS EC2** and **AWS RDS**, improving scalability and reducing hosting costs by 20%.
 
-### Image Denoising with AutoEncoders  
+### [Image Denoising with AutoEncoders](https://github.com/jmajety-dev/DeNoising-the-images-using-AutoEncoders)  
   - Developed an image denoising model in **Python** using **TensorFlow** and **OpenCV**, with a **symmetrical encoder-decoder architecture** to remove **Gaussian noise** from images. Achieved **95.2% accuracy** on noisy image datasets by reconstructing clean images from noisy inputs. Key components include **Convolutional Layers** for the encoder and decoder, **Mean Squared Error (MSE)** as the loss function, and **Adam Optimizer** with a learning rate of 0.001.
 
 ### Economical Plaque Detection
@@ -101,7 +101,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 ## Connect with Me
 - **LinkedIn**: [linkedin.com/in/jitesh-majety](https://www.linkedin.com/in/jitesh-majety/)
 - **GitHub**: [github.com/jmajety-dev](https://github.com/jmajety-dev)
-- **Email**: [jmajety@terpmail.umd.edu](jmajety@terpmail.umd.edu)
+- Email: [jmajety@terpmail.umd.edu](mailto:jmajety@terpmail.umd.edu)
 <!-- - **Portfolio**: [jmajety-dev.github.io](http://jmajety-dev.github.io/) -->
 
 Thank you for visiting! Feel free to explore my projects and connect for any collaboration opportunities or inquiries.
