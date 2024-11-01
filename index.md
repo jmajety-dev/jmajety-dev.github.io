@@ -143,40 +143,40 @@ Innovative Software Engineer with a strong foundation in software development, d
         <i class="fab fa-react" style="font-size: 2em; color: #61DAFB;"></i>
     </a>
     <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" title="PySpark">
-        <img src="/assets/icons/apache_spark.svg" alt="PySpark" width="40">
+        <img src="/assets/icons/apache_spark.svg" alt="PySpark" width="40" height="40">
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-        <img src="/assets/icons/flask.svg" alt="Flask" width="40">
+        <img src="/assets/icons/flask.svg" alt="Flask" width="40" height="40">
     </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
-        <img src="/assets/icons/c.svg" alt="C" width="40">
+        <img src="/assets/icons/c.svg" alt="C" width="40" height="40">
     </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" title="C++">
-        <img src="/assets/icons/c-plusplus.svg" alt="C++" width="40">
+        <img src="/assets/icons/c-plusplus.svg" alt="C++" width="40" height="40">
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
-        <img src="/assets/icons/c-sharp-c.svg" alt="C#" width="40">
+        <img src="/assets/icons/c-sharp-c.svg" alt="C#" width="40" height="40">
     </a>
     <a href="https://aws.amazon.com/emr/" target="_blank" title="AWS EMR">
-        <img src="/assets/icons/AWS-EMR.svg" alt="AWS EMR" width="40">
+        <img src="/assets/icons/AWS-EMR.svg" alt="AWS EMR" width="40" height="40">
     </a>
     <a href="https://aws.amazon.com/ec2/" target="_blank" title="AWS EC2">
-        <img src="/assets/icons/aws-ec2.svg" alt="AWS EC2" width="40">
+        <img src="/assets/icons/aws-ec2.svg" alt="AWS EC2" width="40" height="40">
     </a>
     <a href="https://aws.amazon.com/s3/" target="_blank" title="AWS S3">
-        <img src="/assets/icons/S3.svg" alt="AWS S3" width="40">
+        <img src="/assets/icons/S3.svg" alt="AWS S3" width="40" height="40">
     </a>
     <a href="https://aws.amazon.com/athena/" target="_blank" title="AWS Athena">
-        <img src="/assets/icons/AWS-Athena.svg" alt="AWS Athena" width="40">
+        <img src="/assets/icons/AWS-Athena.svg" alt="AWS Athena" width="40" height="40">
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-        <img src="/assets/icons/django.svg" alt="Django" width="40">
+        <img src="/assets/icons/django.svg" alt="Django" width="40" height="40">
     </a>
     <a href="https://www.mysql.com/" target="_blank" title="SQL Database">
-        <i class="fas fa-database" style="font-size: 2em; color: #4479A1;"></i> <!-- Database icon for SQL -->
+        <i class="fas fa-database" style="font-size: 2em; color: #4479A1;"></i>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" title="NoSQL Database">
-        <i class="fas fa-database" style="font-size: 2em; color: #4DB33D;"></i> <!-- Different color database icon for NoSQL -->
+        <i class="fas fa-database" style="font-size: 2em; color: #4DB33D;"></i>
     </a>
     <a href="https://nodejs.org/" target="_blank" title="Node.js">
         <i class="fab fa-node-js" style="font-size: 2em; color: #68A063;"></i>
@@ -188,10 +188,10 @@ Innovative Software Engineer with a strong foundation in software development, d
         <i class="fab fa-docker" style="font-size: 2em; color: #2496ED;"></i>
     </a>
     <a href="https://kubernetes.io/" target="_blank" title="Kubernetes">
-        <i class="fas fa-cubes" style="font-size: 2em; color: #326CE5;"></i> <!-- Cube icon as a placeholder for Kubernetes -->
+        <i class="fas fa-cubes" style="font-size: 2em; color: #326CE5;"></i>
     </a>
     <a href="https://firebase.google.com/" target="_blank" title="Firebase">
-        <i class="fas fa-fire-alt" style="font-size: 2em; color: #FFCA28;"></i> <!-- Fire icon as a placeholder for Firebase -->
+        <i class="fas fa-fire-alt" style="font-size: 2em; color: #FFCA28;"></i>
     </a>
     <a href="https://git-scm.com/" target="_blank" title="Git">
         <i class="fab fa-git" style="font-size: 2em; color: #F05032;"></i>
