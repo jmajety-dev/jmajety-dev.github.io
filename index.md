@@ -5,8 +5,9 @@ title: Jitesh Majety - Software Engineer
 
 # Jitesh Majety
 
-[AWS Certified Developer](https://www.credly.com/badges/bd0a5181-9ed3-4301-a913-1e6b34c9f91c/public_url)
-[IBM Certified Data Science Professional](https://www.credly.com/badges/7e44a12f-55dc-4c7c-8c9f-7499f10aff2c/public_url)
+[**AWS Certified Developer**](https://www.credly.com/badges/bd0a5181-9ed3-4301-a913-1e6b34c9f91c/public_url)
+
+[**IBM Certified Data Science Professional**](https://www.credly.com/badges/7e44a12f-55dc-4c7c-8c9f-7499f10aff2c/public_url)
 
 Email: jmajety@gmail.com  
 <!-- Phone: 480-806-7932   -->
