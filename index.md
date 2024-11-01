@@ -123,9 +123,6 @@ Innovative Software Engineer with a strong foundation in software development, d
     <a href="https://www.python.org/" target="_blank" title="Python">
         <i class="fab fa-python" style="font-size: 2em; color: #4B8BBE;"></i>
     </a>
-    <a href="https://www.terraform.io/" target="_blank" title="Terraform">
-    <img src="/assets/icons/terraform.svg" alt="Terraform" width="35" height="35"><!-- Terraform icon with brand color -->
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
         <i class="fab fa-js-square" style="font-size: 2em; color: #F7DF1E;"></i>
     </a>
@@ -138,8 +135,8 @@ Innovative Software Engineer with a strong foundation in software development, d
     <a href="https://www.php.net/" target="_blank" title="PHP">
         <i class="fab fa-php" style="font-size: 2em; color: #777BB4;"></i>
     </a>
-    <a href="https://en.wikipedia.org/wiki/ABAP" target="_blank" title="ABAP">
-        <i class="fas fa-database" style="font-size: 2em;"></i>
+        <a href="https://www.terraform.io/" target="_blank" title="Terraform">
+    <img src="/assets/icons/terraform.svg" alt="Terraform" width="35" height="35"><!-- Terraform icon with brand color -->
     </a>
     <a href="https://www.linux.org/" target="_blank" title="Linux">
         <i class="fab fa-linux" style="font-size: 2em; color: #FCC624;"></i>
