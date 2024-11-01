@@ -67,7 +67,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 <a id="projects"></a>
 
 ### Norton Health Solution - **[Github](https://github.com/jmajety-dev/Norton-Healthcare)**
-   - Implemented a secure cloud architecture for a health facility using **Terraform**, including cross-regional backups with **AWS Snapshots** and a HIPAA and PCI-compliant firewall, reducing deployment time by 30% and data recovery time by 40%.
+   - Implemented a secure cloud architecture for a health facility using **Terraform**, including cross-regional backups with **AWS Snapshots** and a HIPAA and PCI-compliant firewall, reducing deployment time by 30% and data recovery time by 35%.
 
 <p style="text-align: center;">
     <img src="assets/img/NortonHealthcare.png" alt="Norton Health" width="80%">
@@ -84,7 +84,7 @@ Innovative Software Engineer with a strong foundation in software development, d
    - Developed a Twitter data storage system using **Python** and **Airflow**, utilizing **Tweepy** for data interaction, **Pandas** for data manipulation, and **AWS S3** for storage, enabling comprehensive data analysis.
 
 ### Freedemy - **[Github](https://github.com/jmajety-dev/Freedemy)**
-   - Built an application using **Django**, **HTML5**, and **CSS** that increased user engagement by over 40% in 3 weeks.
+   - Built an application using **Django**, **HTML5**, and **CSS** that increased user engagement by over 35% in 3 weeks.
 
 ### Vacation Recommender
    - Designed a recommendation website using **HTML**, **CSS**, **JavaScript**, and **MySQL**, reducing selection time for users from 30 minutes to 30 seconds. Deployed on **AWS EC2** and **AWS RDS**, improving scalability and reducing hosting costs by 20%.
@@ -146,34 +146,34 @@ Innovative Software Engineer with a strong foundation in software development, d
         <i class="fab fa-react" style="font-size: 2em; color: #61DAFB;"></i>
     </a>
     <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" title="PySpark">
-        <img src="/assets/icons/apache_spark.svg" alt="PySpark" width="40" height="40">
+        <img src="/assets/icons/apache_spark.svg" alt="PySpark" width="35" height="35">
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-        <img src="/assets/icons/flask.svg" alt="Flask" width="40" height="40">
+        <img src="/assets/icons/flask.svg" alt="Flask" width="35" height="35">
     </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
-        <img src="/assets/icons/c.svg" alt="C" width="40" height="40">
+        <img src="/assets/icons/c.svg" alt="C" width="35" height="35">
     </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" title="C++">
-        <img src="/assets/icons/c-plusplus.svg" alt="C++" width="40" height="40">
+        <img src="/assets/icons/c-plusplus.svg" alt="C++" width="35" height="35">
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
-        <img src="/assets/icons/c-sharp-c.svg" alt="C#" width="40" height="40">
+        <img src="/assets/icons/c-sharp-c.svg" alt="C#" width="35" height="35">
     </a>
     <a href="https://aws.amazon.com/emr/" target="_blank" title="AWS EMR">
-        <img src="/assets/icons/AWS-EMR.svg" alt="AWS EMR" width="40" height="40">
+        <img src="/assets/icons/AWS-EMR.svg" alt="AWS EMR" width="35" height="35">
     </a>
     <a href="https://aws.amazon.com/ec2/" target="_blank" title="AWS EC2">
-        <img src="/assets/icons/aws-ec2.svg" alt="AWS EC2" width="40" height="40">
+        <img src="/assets/icons/aws-ec2.svg" alt="AWS EC2" width="35" height="35">
     </a>
     <a href="https://aws.amazon.com/s3/" target="_blank" title="AWS S3">
-        <img src="/assets/icons/S3.svg" alt="AWS S3" width="40" height="40">
+        <img src="/assets/icons/S3.svg" alt="AWS S3" width="35" height="35">
     </a>
     <a href="https://aws.amazon.com/athena/" target="_blank" title="AWS Athena">
-        <img src="/assets/icons/AWS-Athena.svg" alt="AWS Athena" width="40" height="40">
+        <img src="/assets/icons/AWS-Athena.svg" alt="AWS Athena" width="35" height="35">
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-        <img src="/assets/icons/django.svg" alt="Django" width="40" height="40">
+        <img src="/assets/icons/django.svg" alt="Django" width="35" height="35">
     </a>
     <a href="https://www.mysql.com/" target="_blank" title="SQL Database">
         <i class="fas fa-database" style="font-size: 2em; color: #4479A1;"></i>
