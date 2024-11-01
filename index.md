@@ -85,7 +85,7 @@ Innovative Software Engineer with a strong foundation in software development, d
    - Key components include **Convolutional Layers** for the encoder and decoder, **Mean Squared Error (MSE)** as the loss function, and **Adam Optimizer** with a learning rate of 0.001.
 
 <p style="text-align: center;">
-    <img src="/assets/images/image_denoising_project.png" alt="Image Denoising Project" width="80%">
+    <img src="assets/img/image_denoising_project.png" alt="Image Denoising Project" width="80%">
 </p>
 
 ### Economical Plaque Detection
