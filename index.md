@@ -65,11 +65,17 @@ Innovative Software Engineer with a strong foundation in software development, d
 # Projects
 <a id="projects"></a>
 
-### Norton Health Solution
+### Norton Health Solution **[Github - jmajety-dev/Norton-Healthcare](https://github.com/jmajety-dev/Norton-Healthcare)**
    - Implemented a secure cloud architecture for a health facility using **Terraform**, including cross-regional backups with **AWS Snapshots** and a HIPAA and PCI-compliant firewall, reducing deployment time by 30% and data recovery time by 40%.
 
-### YouTube Data Analysis | Engineering Project
+<p style="text-align: center;">
+    <img src="assets/img/NortonHealth.png" alt="Norton Health" width="80%">
+</p>
+
+### YouTube Data Analysis | Engineering Project **[Github - jmajety-dev/Youtube-data-analysis-pipeline](https://github.com/jmajety-dev/Youtube-data-analysis-pipeline)**
    - Leveraged **Python** and **PySpark** to analyze data from 200 YouTube videos daily, providing behavioral insights into user trends. Utilized **AWS Athena**, **Glue**, **Redshift**, **S3**, **IAM**, **Lambda**, and **QuickSight** for a complete data pipeline from ingestion to visualization.
+
+
 
 ### Twitter Data Pipeline using Airflow
    - Developed a Twitter data storage system using **Python** and **Airflow**, utilizing **Tweepy** for data interaction, **Pandas** for data manipulation, and **AWS S3** for storage, enabling comprehensive data analysis.
@@ -80,7 +86,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 ### Vacation Recommender
    - Designed a recommendation website using **HTML**, **CSS**, **JavaScript**, and **MySQL**, reducing selection time for users from 30 minutes to 30 seconds. Deployed on **AWS EC2** and **AWS RDS**, improving scalability and reducing hosting costs by 20%.
 
-**[Image Denoising with AutoEncoders](https://github.com/jmajety-dev/DeNoising-the-images-using-AutoEncoders)**
+### Image Denoising with AutoEncoders **[Github - jmajety-dev/DeNoising-the-images-using-AutoEncoders](https://github.com/jmajety-dev/DeNoising-the-images-using-AutoEncoders)**
    - Developed an image denoising model in **Python** using **TensorFlow** and **OpenCV**, with a **symmetrical encoder-decoder architecture** to remove **Gaussian noise** from images. Achieved **95.2% accuracy** on noisy image datasets by reconstructing clean images from noisy inputs. 
    - Key components include **Convolutional Layers** for the encoder and decoder, **Mean Squared Error (MSE)** as the loss function, and **Adam Optimizer** with a learning rate of 0.001.
 
