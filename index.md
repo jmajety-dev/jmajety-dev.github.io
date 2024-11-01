@@ -27,12 +27,12 @@ Innovative Software Engineer with a strong foundation in software development, d
 # Skills & Qualifications
 <a id="skills"></a>
 
-- **Programming Languages**: Java, C, Python, C++, Scala, HTML, CSS, JavaScript, C#, PHP, ABAP, Linux
-- **Frameworks**: React, Flask, Node.js, Django, PySpark, Hadoop, REST API, Terraform, Snowflake
-- **Tools**: ETL, Kafka, Docker, Power BI, Tableau, Hive, Autopsy, Vera-Crypt
-- **Databases**: MySQL, No-SQL, Firebase, AWS S3, AWS Relational Data Service
-- **Technical Expertise**: Git, GitHub, AWS EC2, AWS EMR, AWS Snapshots, AWS CloudFormation, AWS Airflow, Google Sheets
-- **Additional Skills**: Software Development, Data Analysis, Schema Design, Data Modeling, Data Maintenance, CICD, Agile Development, Version Control, Data Science, Machine Learning, Statistics, Big Data, Test Automation, Business Intelligence, Technical Writing
+**Programming Languages**: Java, C, Python, C++, Scala, HTML, CSS, JavaScript, C#, PHP, ABAP, Linux
+**Frameworks**: React, Flask, Node.js, Django, PySpark, Hadoop, REST API, Terraform, Snowflake
+**Tools**: ETL, Kafka, Docker, Power BI, Tableau, Hive, Autopsy, Vera-Crypt
+**Databases**: MySQL, No-SQL, Firebase, AWS S3, AWS Relational Data Service
+**Technical Expertise**: Git, GitHub, AWS EC2, AWS EMR, AWS Snapshots, AWS CloudFormation, AWS Airflow, Google Sheets
+**Additional Skills**: Software Development, Data Analysis, Schema Design, Data Modeling, Data Maintenance, CICD, Agile Development, Version Control, Data Science, Machine Learning, Statistics, Big Data, Test Automation, Business Intelligence, Technical Writing
 
 ---
 
