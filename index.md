@@ -118,17 +118,8 @@ Innovative Software Engineer with a strong foundation in software development, d
     <a href="https://www.oracle.com/java/" target="_blank" title="Java">
         <i class="fab fa-java" style="font-size: 2em;"></i>
     </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
-        <i class="fas fa-c" style="font-size: 2em;"></i>
-    </a>
     <a href="https://www.python.org/" target="_blank" title="Python">
         <i class="fab fa-python" style="font-size: 2em; color: #4B8BBE;"></i>
-    </a>
-        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" title="C++">
-        <i class="fas fa-code" style="font-size: 2em;"></i> <!-- Placeholder for C++ -->
-    </a>
-    <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" title="PySpark">
-        <i class="fas fa-fire" style="font-size: 2em; color: #FF6F00;"></i> <!-- Flame icon for PySpark -->
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
         <i class="fab fa-js-square" style="font-size: 2em; color: #F7DF1E;"></i>
@@ -138,9 +129,6 @@ Innovative Software Engineer with a strong foundation in software development, d
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
         <i class="fab fa-css3-alt" style="font-size: 2em; color: #1572B6;"></i>
-    </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
-        <i class="fas fa-code" style="font-size: 2em; color: #68217A;"></i>
     </a>
     <a href="https://www.php.net/" target="_blank" title="PHP">
         <i class="fab fa-php" style="font-size: 2em; color: #777BB4;"></i>
@@ -154,11 +142,35 @@ Innovative Software Engineer with a strong foundation in software development, d
     <a href="https://reactjs.org/" target="_blank" title="React">
         <i class="fab fa-react" style="font-size: 2em; color: #61DAFB;"></i>
     </a>
+    <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" title="PySpark">
+        <img src="/assets/icons/apache_spark.svg" alt="PySpark" width="40">
+    </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-        <i class="fas fa-vial" style="font-size: 2em;"></i> <!-- Flask (vial) icon for Flask -->
+        <img src="/assets/icons/flask.svg" alt="Flask" width="40">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C">
+        <img src="/assets/icons/c.svg" alt="C" width="40">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" title="C++">
+        <img src="/assets/icons/c-plusplus.svg" alt="C++" width="40">
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+        <img src="/assets/icons/c-sharp-c.svg" alt="C#" width="40">
+    </a>
+    <a href="https://aws.amazon.com/emr/" target="_blank" title="AWS EMR">
+        <img src="/assets/icons/AWS-EMR.svg" alt="AWS EMR" width="40">
+    </a>
+    <a href="https://aws.amazon.com/ec2/" target="_blank" title="AWS EC2">
+        <img src="/assets/icons/aws-ec2.svg" alt="AWS EC2" width="40">
+    </a>
+    <a href="https://aws.amazon.com/s3/" target="_blank" title="AWS S3">
+        <img src="/assets/icons/S3.svg" alt="AWS S3" width="40">
+    </a>
+    <a href="https://aws.amazon.com/athena/" target="_blank" title="AWS Athena">
+        <img src="/assets/icons/AWS-Athena.svg" alt="AWS Athena" width="40">
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-        <i class="fab fa-python" style="font-size: 2em; color: #092E20;"></i> <!-- Python icon as a placeholder for Django -->
+        <img src="/assets/icons/django.svg" alt="Django" width="40">
     </a>
     <a href="https://www.mysql.com/" target="_blank" title="SQL Database">
         <i class="fas fa-database" style="font-size: 2em; color: #4479A1;"></i> <!-- Database icon for SQL -->
@@ -172,17 +184,11 @@ Innovative Software Engineer with a strong foundation in software development, d
     <a href="https://hadoop.apache.org/" target="_blank" title="Hadoop">
         <i class="fab fa-hubspot" style="font-size: 2em;"></i>
     </a>
-    <a href="https://aws.amazon.com/s3/" target="_blank" title="AWS S3">
-        <i class="fab fa-aws" style="font-size: 2em; color: #FF9900;"></i>
-    </a>
     <a href="https://www.docker.com/" target="_blank" title="Docker">
         <i class="fab fa-docker" style="font-size: 2em; color: #2496ED;"></i>
     </a>
     <a href="https://kubernetes.io/" target="_blank" title="Kubernetes">
         <i class="fas fa-cubes" style="font-size: 2em; color: #326CE5;"></i> <!-- Cube icon as a placeholder for Kubernetes -->
-    </a>
-    <a href="https://aws.amazon.com/emr/" target="_blank" title="AWS EMR">
-        <i class="fab fa-aws" style="font-size: 2em; color: #FF9900;"></i> <!-- AWS icon for AWS EMR -->
     </a>
     <a href="https://firebase.google.com/" target="_blank" title="Firebase">
         <i class="fas fa-fire-alt" style="font-size: 2em; color: #FFCA28;"></i> <!-- Fire icon as a placeholder for Firebase -->
@@ -192,9 +198,6 @@ Innovative Software Engineer with a strong foundation in software development, d
     </a>
     <a href="https://github.com/" target="_blank" title="GitHub">
         <i class="fab fa-github" style="font-size: 2em; color: #dbd5d5;"></i>
-    </a>
-    <a href="https://aws.amazon.com/ec2/" target="_blank" title="AWS EC2">
-        <i class="fab fa-aws" style="font-size: 2em; color: #FF9900;"></i>
     </a>
 </p>
 
