@@ -12,7 +12,8 @@ title: Jitesh Majety - Software Engineer
 Email: jmajety@gmail.com  
 <!-- Phone: 480-806-7932   -->
 Location: Hyattsville, MD  
-[LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev) 
+[LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev)
+
 ---
 
 # About Me
@@ -110,11 +111,23 @@ Innovative Software Engineer with a strong foundation in software development, d
   Graduation: **May 2024**
 
 ---
+### Technical Skills
+<a id="technical"></a>
+
+<p style="display: flex; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
+    <i class="fab fa-python" title="Python" style="font-size: 2em; color: #4B8BBE;"></i>
+    <i class="fab fa-js-square" title="JavaScript" style="font-size: 2em; color: #F7DF1E;"></i>
+    <i class="fas fa-brain" title="TensorFlow" style="font-size: 2em; color: #FF6F00;"></i>
+    <i class="fab fa-aws" title="AWS" style="font-size: 2em; color: #FF9900;"></i>
+    <i class="fas fa-camera" title="OpenCV" style="font-size: 2em; color: #5C3EE8;"></i>
+</p>
+
+---
 
 ## Connect with Me
 - **LinkedIn**: [linkedin.com/in/jitesh-majety](https://www.linkedin.com/in/jitesh-majety/)
 - **GitHub**: [github.com/jmajety-dev](https://github.com/jmajety-dev)
-- **Email**: [jmajety@terpmail.umd.edu](mailto:jmajety@terpmail.umd.edu)
+- **Email**: [jmajety@gmail.com](mailto:jmajetygmail.com)
 <!-- - **Portfolio**: [jmajety-dev.github.io](http://jmajety-dev.github.io/) -->
 
 Thank you for visiting! Feel free to explore my projects and connect for any collaboration opportunities or inquiries.
