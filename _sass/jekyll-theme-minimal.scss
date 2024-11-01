@@ -74,28 +74,7 @@ header p {
       &:hover {
         color: #d0a8ff;
       }
-    &.active::before { // Add dash for the active section link
-        content: "– "; // Dash before the active link
-        font-size: 1.2em;
-        color: #d0a8ff; // Lighter purple for the dash
-        font-weight: bold;
-    }
-
-    &.active {
-        font-weight: bold; // Bold the active section link
-        color: #ffffff; // White color for the active section link
-    }
   }
-}
-
-// Skills & Qualifications: Remove bullet points
-.skills-list {
-  list-style-type: none; // Remove bullet points entirely
-  padding: 0;
-}
-
-.skills-list li {
-  padding-left: 10px; // Optional: add padding for better alignment if needed
 }
 
 .social-links-vertical {

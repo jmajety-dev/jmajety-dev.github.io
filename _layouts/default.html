@@ -75,30 +75,6 @@
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         </footer> -->
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", function() {
-          const sections = document.querySelectorAll("section");
-          const navLinks = document.querySelectorAll(".vertical-nav a");
-  
-          window.addEventListener("scroll", () => {
-              let current = "";
-  
-              sections.forEach(section => {
-                  const sectionTop = section.offsetTop;
-                  if (pageYOffset >= sectionTop - 60) {
-                      current = section.getAttribute("id");
-                  }
-              });
-  
-              navLinks.forEach(link => {
-                  link.classList.remove("active");
-                  if (link.getAttribute("href").includes(current)) {
-                      link.classList.add("active");
-                  }
-              });
-          });
-      });
-  </script>  
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>  
 </body>
 </html>
