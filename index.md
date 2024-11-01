@@ -109,17 +109,9 @@ Innovative Software Engineer with a strong foundation in software development, d
 ## Education
 <a id="education"><a>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="/assets/icons/umd-logo.png" alt="UMD Logo" width="24" height="24" onerror="this.style.display='none'">
-    <div>
-        <span style="font-weight: bold; color: #a78bfa;">Master of Engineering in Software Engineering</span>  
-        <br><em>University of Maryland, College Park</em>
-        <br>Graduation: <strong style="color: #a78bfa;">May 2024</strong>
-    </div>
-</div>
-<!-- - **Master of Engineering in Software Engineering**  
+- **Master of Engineering in Software Engineering**  
   *University of Maryland, College Park*  
-  Graduation: **May 2024** -->
+  Graduation: **May 2024**
 
 ---
 ### Technical Skills
