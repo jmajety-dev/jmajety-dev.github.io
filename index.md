@@ -43,14 +43,9 @@ Innovative Software Engineer with a strong foundation in software development, d
 # Work Experience
 <a id="work-experience"></a>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="/assets/icons/University-of-Maryland-Logo.png" alt="UMD Logo" width="24" height="24">
-    <div>
-        <span style="font-weight: bold; color: #a78bfa;">Master of Engineering in Software Engineering</span>  
-        <br><em>University of Maryland, College Park</em>
-        <br>Graduation: <strong style="color: #a78bfa;">May 2024</strong>
-    </div>
-</div>
+### Software Engineer | Traffic Safety and Operations Lab
+*University of Maryland, College Park*  
+**Sept 2023 - Present**
 
 - Developed and deployed a scalable large-scale data pipeline using **Apache Spark**, **PySpark**, **Hadoop**, and **Python** on **AWS EMR**, **AWS EC2**, and **AWS S3** to process 185 TB of geospatial data.
 - Created a **Folium** map and algorithm for data cleaning, processing, and modeling over 100 TB using **AWS EMR**. Transformed data with PySpark to enhance pedestrian collision visualization for traffic engineers.
@@ -114,9 +109,17 @@ Innovative Software Engineer with a strong foundation in software development, d
 ## Education
 <a id="education"><a>
 
-- **Master of Engineering in Software Engineering**  
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="/assets/icons/umd-logo.png" alt="UMD Logo" width="24" height="24" onerror="this.style.display='none'">
+    <div>
+        <span style="font-weight: bold; color: #a78bfa;">Master of Engineering in Software Engineering</span>  
+        <br><em>University of Maryland, College Park</em>
+        <br>Graduation: <strong style="color: #a78bfa;">May 2024</strong>
+    </div>
+</div>
+<!-- - **Master of Engineering in Software Engineering**  
   *University of Maryland, College Park*  
-  Graduation: **May 2024**
+  Graduation: **May 2024** -->
 
 ---
 ### Technical Skills
