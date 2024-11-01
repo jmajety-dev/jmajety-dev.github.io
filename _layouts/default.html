@@ -75,6 +75,38 @@
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         </footer> -->
     </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          // Select all sections and nav links
+          const sections = document.querySelectorAll("section[id]");
+          const navLinks = document.querySelectorAll(".vertical-nav a");
+  
+          // Function to update active link based on scroll position
+          function updateActiveLink() {
+              let currentSection = "";
+  
+              sections.forEach(section => {
+                  const sectionTop = section.offsetTop;
+                  const sectionHeight = section.offsetHeight;
+  
+                  if (window.scrollY >= sectionTop - sectionHeight / 3) {
+                      currentSection = section.getAttribute("id");
+                  }
+              });
+  
+              // Remove active class from all links and add to the current one
+              navLinks.forEach(link => {
+                  link.classList.remove("active");
+                  if (link.getAttribute("href").includes(currentSection)) {
+                      link.classList.add("active");
+                  }
+              });
+          }
+  
+          // Listen for scroll events
+          window.addEventListener("scroll", updateActiveLink);
+      });
+    </script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>  
 </body>
 </html>
