@@ -90,7 +90,8 @@ Innovative Software Engineer with a strong foundation in software development, d
    - Designed a recommendation website using **HTML**, **CSS**, **JavaScript**, and **MySQL**, reducing selection time for users from 30 minutes to 30 seconds. Deployed on **AWS EC2** and **AWS RDS**, improving scalability and reducing hosting costs by 20%.
 
 ### Image Denoising with AutoEncoders - **[Github](https://github.com/jmajety-dev/DeNoising-the-images-using-AutoEncoders)**
-   - Developed an image denoising model in **Python** using **TensorFlow** and **OpenCV**, with a **symmetrical encoder-decoder architecture** to remove **Gaussian noise** from images. Achieved **95.2% accuracy** on noisy image datasets by reconstructing clean images from noisy inputs. 
+   - Developed an image denoising model in **Python** using **TensorFlow** and **OpenCV**, with a **symmetrical encoder-decoder architecture** to remove **Gaussian noise** from images.
+   - Achieved **95.2% accuracy** on noisy image datasets by reconstructing clean images from noisy inputs. 
    - Key components include **Convolutional Layers** for the encoder and decoder, **Mean Squared Error (MSE)** as the loss function, and **Adam Optimizer** with a learning rate of 0.001.
 
 <p style="text-align: center;">
