@@ -99,8 +99,8 @@ Innovative Software Engineer with a strong foundation in software development, d
 </p>
 
 ### Economical Plaque Detection  - **[Project Report](https://drive.google.com/file/d/1LO_Vr4yhx_PNWSkRaLbFPm-bOB7A3l_4/view?usp=sharing)**
-    - Developed an AI-powered medical imaging solution using **CNN**, **Python**, and **Keras** that automatically detects cardiovascular risks through ultrasound scans of neck arteries, achieving 96.8% accuracy in early risk identification.
-    - Reduced diagnostic **costs by 89%** by developing **OpenCV**-based ultrasound image processing algorithms as an alternative to traditional CT scans, making preventive screening more accessible to patients
+   - Developed an AI-powered medical imaging solution using **CNN**, **Python**, and **Keras** that automatically detects cardiovascular risks through ultrasound scans of neck arteries, achieving 96.8% accuracy in early risk identification.
+   - Reduced diagnostic **costs by 89%** by developing **OpenCV**-based ultrasound image processing algorithms as an alternative to traditional CT scans, making preventive screening more accessible to patients
 
 <p style="text-align: center;">
     <img src="assets/img/Economic plaque.png" alt="Economical Plaque Detection Project" width="80%">
