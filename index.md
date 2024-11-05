@@ -73,7 +73,7 @@ Innovative Software Engineer with a strong foundation in software development, d
     <img src="assets/img/NortonHealthcare.png" alt="Norton Health" width="80%">
 </p>
 
-### YouTube Data Analysis | Engineering Project - [**Github**](https://github.com/jmajety-dev/Youtube-data-analysis-pipeline){:target="_blank"}
+### YouTube Data Analysis | Engineering Project - **[Github](https://github.com/jmajety-dev/Youtube-data-analysis-pipeline){:target="_blank"}**
    - Leveraged **Python** and **PySpark** to analyze data from 200 YouTube videos daily, providing behavioral insights into user trends. Utilized **AWS Athena**, **Glue**, **Redshift**, **S3**, **IAM**, **Lambda**, and **QuickSight** for a complete data pipeline from ingestion to visualization.
 
 <p style="text-align: center;">
@@ -83,13 +83,13 @@ Innovative Software Engineer with a strong foundation in software development, d
 ### Twitter Data Pipeline using Airflow
    - Developed a Twitter data storage system using **Python** and **Airflow**, utilizing **Tweepy** for data interaction, **Pandas** for data manipulation, and **AWS S3** for storage, enabling comprehensive data analysis.
 
-### Freedemy - [**Github**](https://github.com/jmajety-dev/Freedemy){:target="_blank"}
+### Freedemy - **[Github](https://github.com/jmajety-dev/Freedemy){:target="_blank"}**
    - Built an application using **Django**, **HTML5**, and **CSS** that increased user engagement by over 35% in 3 weeks.
 
 ### Vacation Recommender
    - Designed a recommendation website using **HTML**, **CSS**, **JavaScript**, and **MySQL**, reducing selection time for users from 30 minutes to 30 seconds. Deployed on **AWS EC2** and **AWS RDS**, improving scalability and reducing hosting costs by 20%.
 
-### Image Denoising with AutoEncoders - [**Github**](https://github.com/jmajety-dev/DeNoising-the-images-using-AutoEncoders){:target="_blank"}
+### Image Denoising with AutoEncoders - **[Github](https://github.com/jmajety-dev/DeNoising-the-images-using-AutoEncoders){:target="_blank"}**
    - Developed an image denoising model in **Python** using **TensorFlow** and **OpenCV**, with a **symmetrical encoder-decoder architecture** to remove **Gaussian noise** from images.
    - Achieved **95.2% accuracy** on noisy image datasets by reconstructing clean images from noisy inputs. 
    - Key components include **Convolutional Layers** for the encoder and decoder, **Mean Squared Error (MSE)** as the loss function, and **Adam Optimizer** with a learning rate of 0.001.
@@ -98,7 +98,7 @@ Innovative Software Engineer with a strong foundation in software development, d
     <img src="assets/img/image_denoising_project.png" alt="Image Denoising Project" width="80%">
 </p>
 
-### Economical Plaque Detection  - [**Project Report**](https://drive.google.com/file/d/1LO_Vr4yhx_PNWSkRaLbFPm-bOB7A3l_4/view?usp=sharing){:target="_blank"}
+### Economical Plaque Detection  - **[Project Report](https://drive.google.com/file/d/1LO_Vr4yhx_PNWSkRaLbFPm-bOB7A3l_4/view?usp=sharing){:target="_blank"}**
    - Developed an AI-powered medical imaging solution using **CNN**, **Python**, and **Keras** that automatically detects cardiovascular risks through ultrasound scans of neck arteries, achieving **96.8% accuracy** in early risk identification.
    - Reduced diagnostic **costs by 89%** by developing **OpenCV**-based ultrasound image processing algorithms as an alternative to traditional CT scans, making preventive screening more accessible to patients
 
