@@ -5,14 +5,14 @@ title: Jitesh Majety - Software Engineer
 
 # Jitesh Majety
 
-[**AWS Certified Developer**](https://www.credly.com/badges/bd0a5181-9ed3-4301-a913-1e6b34c9f91c/public_url)
+[**AWS Certified Developer**](https://www.credly.com/badges/bd0a5181-9ed3-4301-a913-1e6b34c9f91c/public_url){:target="_blank"}
 
-[**IBM Certified Data Science Professional**](https://www.credly.com/badges/7e44a12f-55dc-4c7c-8c9f-7499f10aff2c/public_url)
+[**IBM Certified Data Science Professional**](https://www.credly.com/badges/7e44a12f-55dc-4c7c-8c9f-7499f10aff2c/public_url){:target="_blank"}
 
 Email: jmajety@gmail.com
 
 Location: Hyattsville, MD  
-[LinkedIn](https://www.linkedin.com/in/jitesh-majety/) | [GitHub](https://github.com/jmajety-dev) | [Resume](https://drive.google.com/file/d/1tr4Mb-mkbfjkZyLMaSJjBFZYQc0J3wyV/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/jitesh-majety/){:target="_blank"} | [GitHub](https://github.com/jmajety-dev){:target="_blank"} | [Resume](https://drive.google.com/file/d/1tr4Mb-mkbfjkZyLMaSJjBFZYQc0J3wyV/view?usp=sharing){:target="_blank"}
 
 ---
 
