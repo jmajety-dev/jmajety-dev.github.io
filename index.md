@@ -66,7 +66,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 # Projects
 <a id="projects"></a>
 
-### Norton Health Solution - [**Github**](https://github.com/jmajety-dev/Norton-Healthcare){:target="_blank"}
+### Norton Health Solution - **[Github]**(https://github.com/jmajety-dev/Norton-Healthcare){:target="_blank"}
    - Implemented a secure cloud architecture for a health facility using **Terraform**, including cross-regional backups with **AWS Snapshots** and a HIPAA and PCI-compliant firewall, reducing deployment time by 30% and data recovery time by 35%.
 
 <p style="text-align: center;">
