@@ -99,7 +99,7 @@ Innovative Software Engineer with a strong foundation in software development, d
 </p>
 
 ### Economical Plaque Detection  - **[Project Report](https://drive.google.com/file/d/1LO_Vr4yhx_PNWSkRaLbFPm-bOB7A3l_4/view?usp=sharing)**
-   - Developed a plaque detection algorithm in Carotid artery with 96.8% accuracy using **CNN**, **Python**, **OpenCV**, and **Keras**.
+   - Developed a plaque detection algorithm in the Carotid artery with 96.8% accuracy using **CNN**, **Python**, **OpenCV**, and **Keras**.
 
 <p style="text-align: center;">
     <img src="assets/img/Economic plaque.png" alt="Economical Plaque Detection Project" width="80%">
