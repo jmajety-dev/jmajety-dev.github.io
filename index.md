@@ -56,10 +56,10 @@ Innovative Software Engineer with a strong foundation in software development, d
 ### Software Engineer | Cognizant Technology Solutions  
 **Apr 2020 - Aug 2022**
 
-- Created real-time data visualizations in **Power BI** by integrating live data from clients.
+- Improved **CICD** workflows for 50+ ETL jobs, managing over 1000 TB of data in pipelines.
 - Developed **SAP BO Data Services** jobs for data manipulation and extraction from data warehouses and **SQL** servers.
 - Automated **ETL** pipelines for 100+ databases using **SQL** scripts, achieving 99% accurate real-time reporting with **Power BI** for business decision support in a Fortune 500 manufacturing company.
-- Improved **CICD** workflows for 50+ ETL jobs, managing over 1000 TB of data in pipelines.
+- Created real-time data visualizations in **Power BI** by integrating live data from clients.
 
 ---
 
