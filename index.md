@@ -19,7 +19,7 @@ Location: Hyattsville, MD
 # About Me
 <a id="about-me"></a>
 
-Innovative Software Engineer with a strong foundation in software development, data engineering, and cloud solutions. Skilled in building big data and machine learning applications using PySpark, Python, AWS, and Terraform. Known for delivering secure, scalable solutions and streamlining processes. A dedicated, independent developer and adaptable team player, seeking roles with challenging tasks that encourage growth and development, especially in machine learning.
+Innovative Software Engineer with a solid foundation in software development, big data, machine learning, and data science. Skilled in building secure and scalable big data and machine learning applications using Python, SQL, and AWS. A dedicated independent engineer and adaptable team player, seeking a role in a company with challenging tasks that encourage growth and development overall, and as a software engineer, data scientist, or data engineer.
 
 ---
 
@@ -47,19 +47,19 @@ Innovative Software Engineer with a strong foundation in software development, d
 *University of Maryland, College Park*  
 **Sept 2023 - Present**
 
-- Developed and deployed a scalable large-scale data pipeline using **Apache Spark**, **PySpark**, **Hadoop**, and **Python** on **AWS EMR**, **AWS EC2**, and **AWS S3** to process 185 TB of geospatial data.
-- Created a **Folium** map and algorithm for data cleaning, processing, and modeling over 100 TB using **AWS EMR**. Transformed data with PySpark to enhance pedestrian collision visualization for traffic engineers.
-- Increased processing efficiency by transitioning to **PySpark**, reducing runtime from 1.5 hours to 4 minutes for 110 GB of data.
-- Conducted data mining and modeling on multiple sources to generate 2 GB geospatial crash data for a highway safety tool.
-- Built a **Flask**-based data analysis tool using **HTML**, **JavaScript**, **Python**, and **Docker** for traffic data visualization, meeting the requirement of under 3-minute processing with a 25-second runtime.
+- Developed a scalable pipeline using **Apache Spark**, **PySpark**, **Hadoop**, and **AWS** (EMR, EC2, S3) to process 185 TB of pedestrian crash data, generating interactive maps to aid traffic engineers in designing and improving crosswalks and walkways across Maryland.  
+- Designed a **Folium** map and algorithm for cleaning, processing, and modeling over 100 TB of data using **AWS EMR**, transforming it into geospatial insights with **PySpark** to enhance visualization of pedestrian collision trends for traffic engineers.  
+- Migrated a Python-based pipeline to **PySpark**, optimizing algorithms to reduce processing time from 1.5 hours to 4 minutes, significantly lowering costs and improving efficiency for cross-functional teams.  
+- Conducted data mining and modeling on diverse sources to produce 2 GB of geospatial crash data for a highway safety tool.  
+- Built a **Flask-based traffic safety application** using **HTML**, **JavaScript**, **REST APIs**, and **Docker**, delivering road safety assessments across Maryland through interactive geo-mapping features.
 
 ### Software Engineer | Cognizant Technology Solutions  
 **Apr 2020 - Aug 2022**
 
-- Improved **CICD** workflows for 50+ ETL jobs, managing over 1000 TB of data in pipelines.
-- Developed **SAP BO Data Services** jobs for data manipulation and extraction from data warehouses and **SQL** servers.
-- Automated **ETL** pipelines for 100+ databases using **SQL** scripts, achieving 99% accurate real-time reporting with **Power BI** for business decision support in a Fortune 500 manufacturing company.
-- Created real-time data visualizations in **Power BI** by integrating live data from clients.
+- Automated an **ETL** pipeline supporting over 100 databases with **SQL** scripting, achieving 99% accuracy in real-time sales and finance reporting, enhancing decision-making for large-scale, data-driven business processes.  
+- Developed and improved mappings in 50+ **ETL** jobs within **CICD** workflows to manage over 1000 TB in the data pipeline.  
+- Built **SAP BO Data Services** jobs for manipulating and extracting data from a data warehouse and **SQL Server Integration Services**, automating tests to stream real-time data to **Power BI** dashboards.  
+- Designed a **Power BI** dashboard integrating live client data, delivering real-time insights to support collaborative decisions across engineering, finance, and sales teams.
 
 ---
 
@@ -83,11 +83,11 @@ Innovative Software Engineer with a strong foundation in software development, d
 ### Twitter Data Pipeline using Airflow
    - Developed a Twitter data storage system using **Python** and **Airflow**, utilizing **Tweepy** for data interaction, **Pandas** for data manipulation, and **AWS S3** for storage, enabling comprehensive data analysis.
 
-### Freedemy - **[Github](https://github.com/jmajety-dev/Freedemy){:target="_blank"}**
-   - Built an application using **Django**, **HTML5**, and **CSS** that increased user engagement by over 35% in 3 weeks.
+<!-- ### Freedemy - **[Github](https://github.com/jmajety-dev/Freedemy){:target="_blank"}**
+   - Built an application using **Django**, **HTML5**, and **CSS** that increased user engagement by over 35% in 3 weeks. -->
 
-### Vacation Recommender
-   - Designed a recommendation website using **HTML**, **CSS**, **JavaScript**, and **MySQL**, reducing selection time for users from 30 minutes to 30 seconds. Deployed on **AWS EC2** and **AWS RDS**, improving scalability and reducing hosting costs by 20%.
+<!-- ### Vacation Recommender
+   - Designed a recommendation website using **HTML**, **CSS**, **JavaScript**, and **MySQL**, reducing selection time for users from 30 minutes to 30 seconds. Deployed on **AWS EC2** and **AWS RDS**, improving scalability and reducing hosting costs by 20%. -->
 
 ### Image Denoising with AutoEncoders - **[Github](https://github.com/jmajety-dev/DeNoising-the-images-using-AutoEncoders){:target="_blank"}**
    - Developed an image denoising model in **Python** using **TensorFlow** and **OpenCV**, with a **symmetrical encoder-decoder architecture** to remove **Gaussian noise** from images.
