@@ -51,7 +51,7 @@ Innovative Software Engineer with a solid foundation in software development, bi
 - Designed a **Folium** map and algorithm for cleaning, processing, and modeling over 100 TB of data using **AWS EMR**, transforming it into geospatial insights with **PySpark** to enhance visualization of pedestrian collision trends for traffic engineers.  
 - Migrated a Python-based pipeline to **PySpark**, optimizing algorithms to reduce processing time from 1.5 hours to 4 minutes, significantly lowering costs and improving efficiency for cross-functional teams.  
 - Conducted data mining and modeling on diverse sources to produce 2 GB of geospatial crash data for a highway safety tool.  
-- Built a **Flask-based traffic safety application** using **HTML**, **JavaScript**, **REST APIs**, and **Docker**, delivering road safety assessments across Maryland through interactive geo-mapping features.
+- Built a **Flask-based traffic safety application** and **road construction design application** using **HTML**, **React**, **JavaScript**, **REST APIs**, and **Docker**, delivering road safety assessments across Maryland through interactive geo-mapping features.
 
 ### Software Engineer | Cognizant Technology Solutions  
 **Apr 2020 - Aug 2022**
