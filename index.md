@@ -11,7 +11,7 @@ title: Jitesh Majety - Software Engineer
 
 Email: jmajety@gmail.com
 
-Location: San Jose, CA 
+Location: San Jose, CA     
 [LinkedIn](https://www.linkedin.com/in/jitesh-majety/){:target="_blank"} | [GitHub](https://github.com/jmajety-dev){:target="_blank"} | [Resume](https://drive.google.com/file/d/17rrnPauBpWK9ucGhAvhBmZJ-VATK68PM/view?usp=sharing){:target="_blank"}
 
 ---
@@ -43,7 +43,8 @@ Innovative Software Engineer with a solid foundation in software development, bi
 # Work Experience
 <a id="work-experience"></a>
 
-### Software Engineer | Traffic Safety and Operations | Maryland Department of Transportation 
+### Software Engineer | Traffic Safety and Operations
+*Maryland Department of Transportation*  
 **Sept 2023 - Present**
 
 - Developed a scalable pipeline using **Apache Spark**, **PySpark**, **Hadoop**, and **AWS** (EMR, EC2, S3) to process 185 TB of pedestrian crash data, generating interactive maps to aid traffic engineers in designing and improving crosswalks and walkways across Maryland.  
