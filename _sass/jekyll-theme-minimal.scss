@@ -2,12 +2,13 @@
 @import "rouge-github";
 
 body {
-  background-color: #0e001e; // Dark background
-  color: #e0e0e0; // Light gray text
+  background-color: #ffffff; // Clean white background
+  color: #333333; // Dark gray/black text for readability
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", "Helvetica, Arial", "sans-serif";
   font-weight:400;
 }
+
 // Styling for header
 header {
   text-align: center;
@@ -21,13 +22,13 @@ header img {
 }
 
 header h1 {
-  color: #bb86fc; // Customize as needed
+  color: #1565C0; // Professional blue for name/title
   font-weight: bold;
   margin-top: 10px;
 }
 
 header p {
-  color: #d4d4d4; // Description color
+  color: #555555; // Medium gray for description
   margin-top: 5px;
   font-size: 1rem;
 }
@@ -35,26 +36,25 @@ header p {
 // Bio section alignment
 .bio-section {
   margin-top: 20px;
-  padding-left: 10px; // Adjust padding as needed for spacing
+  padding-left: 10px;
 
   p {
-      color: #d4d4d4; // Description color
+      color: #555555; // Medium gray for bio text
       font-size: 1rem;
-      margin-bottom: 15px; // Space between description and social links
-      text-align: left; // Left-aligned bio text
+      margin-bottom: 15px;
+      text-align: left;
   }
 }
-
 
 .vertical-nav {
   margin: 20px 0;
   padding-left: 0;
   display: flex;
   flex-direction: column;
-  align-items: flex-start; // Align links to the left
+  align-items: flex-start;
   font-size: 1rem;
   color: #333;
-  text-align: left; // Left-aligned bio text
+  text-align: left;
 
   ul {
       list-style: none;
@@ -68,15 +68,14 @@ header p {
 
   a {
       text-decoration: none;
-      color: #bb86fc;;
+      color: #1976D2; // Professional blue for navigation links
       transition: color 0.3s;
 
       &:hover {
-        color: #d0a8ff;
+        color: #0D47A1; // Darker blue on hover
       }
   }
 }
-
 
 .social-links-vertical {
   display: flex;
@@ -86,38 +85,37 @@ header p {
   margin-top: 15px;
 
   a {
-      color: #bb86fc;
+      color: #1976D2; // Professional blue
       text-decoration: none;
-      font-size: 0.9rem; // Smaller text size to match icon
+      font-size: 0.9rem;
       display: flex;
       align-items: center;
-      gap: 6px; // Space between icon and text
+      gap: 6px;
 
       &:hover {
-        color: #d0a8ff;
+        color: #0D47A1; // Darker blue on hover
       }
 
       &.linkedin {
-          color: #0e76a8;
+          color: #0e76a8; // LinkedIn blue
       }
 
       &.github {
-          color: #c9c8c8;
+          color: #333333; // Dark gray for GitHub
       }
 
       &.instagram {
-          color: #C13584;
+          color: #C13584; // Instagram pink
       }
 
       .fa {
-          font-size: 1.2em; // Reduced icon size
+          font-size: 1.2em;
       }
   }
 }
 
-
 h1, h2, h3, h4, h5, h6 {
-  color:#f5f5f5ef;
+  color: #1565C0; // Professional blue for headings
   margin:0 0 20px;
 }
 
@@ -134,32 +132,34 @@ h1 {
 }
 
 h2 {
-  color:#ededed;
+  color: #1565C0; // Professional blue
+  border-bottom: 2px solid #E3F2FD; // Light blue underline
+  padding-bottom: 5px;
 }
 
 h3, h4, h5, h6 {
-  color:#ededed;
+  color: #1976D2; // Slightly lighter blue for sub-headings
 }
 
 a {
-  color:#267CB9;
+  color: #1976D2; // Professional blue for links
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color: #0D47A1; // Darker blue on hover
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color: #777777;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color: #555555;
 }
 
 .wrapper {
@@ -168,22 +168,23 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:3px solid #1976D2; // Blue left border
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
+  background-color: #F8F9FA; // Very light gray background
 }
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  color:#333333;
 }
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #F8F9FA; // Light gray background
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid #E0E0E0;
   overflow-x: auto;
 }
 
@@ -195,16 +196,17 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid #E0E0E0;
 }
 
 dt {
-  color:#444;
+  color: #333333;
   font-weight:700;
 }
 
 th {
-  color:#444;
+  color: #1565C0; // Blue for table headers
+  background-color: #F5F5F5;
 }
 
 img {
@@ -236,16 +238,16 @@ ul.downloads {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f4f4f4;
+  background: #F5F5F5;
   border-radius:5px;
-  border:1px solid #e0e0e0;
+  border:1px solid #E0E0E0;
   width:270px;
 }
 
 .downloads li {
   width:89px;
   float:left;
-  border-right:1px solid #e0e0e0;
+  border-right:1px solid #E0E0E0;
   height:40px;
 }
 
@@ -260,7 +262,7 @@ ul.downloads {
 .downloads a {
   line-height:1;
   font-size:11px;
-  color:#676767;
+  color: #666666;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -268,16 +270,16 @@ ul.downloads {
 }
 
 .downloads a:hover, .downloads a:focus {
-  color:#675C5C;
+  color: #1976D2; // Blue on hover
   font-weight:bold;
 }
 
 .downloads ul a:active {
-  background-color:#f0f0f0;
+  background-color: #E3F2FD; // Light blue when active
 }
 
 strong {
-  color:#bb86fc;
+  color: #1565C0; // Professional blue for emphasis
   font-weight:700;
 }
 
@@ -289,7 +291,7 @@ strong {
 .downloads a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color: #333333;
 }
 
 section {
@@ -304,9 +306,9 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
-  height:1px;
-  margin:0 0 20px;
+  background: #1976D2; // Blue horizontal rule
+  height:2px;
+  margin:20px 0;
 }
 
 footer {
@@ -317,8 +319,17 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 960px) {
+// Professional resume-style section dividers
+section h2:before {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #1976D2;
+  margin-bottom: 10px;
+}
 
+@media print, screen and (max-width: 960px) {
   div.wrapper {
     width:auto;
     margin:0;
@@ -335,7 +346,7 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
+    border:1px solid #E0E0E0;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
@@ -388,6 +399,6 @@ footer {
   body {
     padding:0.4in;
     font-size:12pt;
-    color:#444;
+    color: #000000; // Pure black for print
   }
 }

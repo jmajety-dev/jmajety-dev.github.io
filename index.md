@@ -109,7 +109,7 @@ Innovative Software Engineer with a solid foundation in software development, bi
 ---
 
 ## Education
-<a id="education"><a>
+<a id="education"></a>
 
 - **Master of Engineering in Software Engineering**  
   *University of Maryland, College Park*  
@@ -214,7 +214,7 @@ Innovative Software Engineer with a solid foundation in software development, bi
 ## Connect with Me
 - **LinkedIn**: [linkedin.com/in/jitesh-majety](https://www.linkedin.com/in/jitesh-majety/){:target="_blank"}
 - **GitHub**: [github.com/jmajety-dev](https://github.com/jmajety-dev){:target="_blank"}
-- **Email**: [jmajety@gmail.com](mailto:jmajetygmail.com)
+- **Email**: [jmajety@gmail.com](mailto:jmajety@gmail.com)
 <!-- - **Portfolio**: [jmajety-dev.github.io](http://jmajety-dev.github.io/) -->
 
 Thank you for visiting! Feel free to explore my projects and connect for any collaboration opportunities or inquiries.
