@@ -43,18 +43,18 @@ Innovative Software Engineer with a solid foundation in software development, bi
 # Work Experience
 <a id="work-experience"></a>
 
-### Software Engineer | Traffic Safety and Operations
-*Maryland Department of Transportation*  
+### Software Engineer | Maryland Department of Transportation
+*Contract*  
 **Sept 2023 - Present**
 
-- Developed a scalable pipeline using **Apache Spark**, **PySpark**, **Hadoop**, and **AWS** (EMR, EC2, S3) to process 185 TB of pedestrian crash data, generating interactive maps to aid traffic engineers in designing and improving crosswalks and walkways across Maryland.  
+- Developed a scalable pipeline using **PySpark**, **Hadoop**, and **AWS** (EMR, EC2, S3) to process 185 TB of pedestrian crash data, generating interactive maps to aid traffic engineers in designing and improving crosswalks and walkways across Maryland.  
 - Designed a **Folium** map and algorithm for cleaning, processing, and modeling over 100 TB of data using **AWS EMR**, transforming it into geospatial insights with **PySpark** to enhance visualization of pedestrian collision trends for traffic engineers.  
 - Migrated a Python-based pipeline to **PySpark**, optimizing algorithms to reduce processing time from 1.5 hours to 4 minutes, significantly lowering costs and improving efficiency for cross-functional teams.  
 - Conducted data mining and modeling on diverse sources to produce 2 GB of geospatial crash data for a highway safety tool.  
-- Built a **Flask-based traffic safety application** and **road construction design application** using **HTML**, **React**, **JavaScript**, **REST APIs**, and **Docker**, delivering road safety assessments across Maryland through interactive geo-mapping features.
+- Built a **traffic safety application** and **road construction design application** using **React**, **TypeScript**, **Java**, **Spring boot**, **REST APIs**, and **Docker**, delivering road safety assessments across Maryland through interactive geo-mapping features.
 
-### Software Engineer | Cognizant Technology Solutions  
-**Apr 2020 - Aug 2022**
+### Contract Software Engineer | 3M Co  
+**Apr 2020 - Jun 2022**
 
 - Automated an **ETL** pipeline supporting over 100 databases with **SQL** scripting, achieving 99% accuracy in real-time sales and finance reporting, enhancing decision-making for large-scale, data-driven business processes.  
 - Developed and improved mappings in 50+ **ETL** jobs within **CICD** workflows to manage over 1000 TB in the data pipeline.  
