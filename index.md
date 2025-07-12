@@ -11,7 +11,7 @@ title: Jitesh Majety - Software Engineer
 
 Email: jmajety@gmail.com
 
-Location: San Jose, CA     
+Location: Sunnyvale, CA     
 [LinkedIn](https://www.linkedin.com/in/jitesh-majety/){:target="_blank"} | [GitHub](https://github.com/jmajety-dev){:target="_blank"} | [Resume](https://drive.google.com/file/d/17rrnPauBpWK9ucGhAvhBmZJ-VATK68PM/view?usp=sharing){:target="_blank"}
 
 ---
