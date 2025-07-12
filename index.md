@@ -19,7 +19,7 @@ Location: Sunnyvale, CA
 # About Me
 <a id="about-me"></a>
 
-Innovative Software Engineer with a solid foundation in software development, big data, machine learning, and data science. Skilled in building secure and scalable big data and machine learning applications using Python, SQL, and AWS. A dedicated independent engineer and adaptable team player, seeking a role in a company with challenging tasks that encourage growth and development overall, and as a software engineer, data scientist, or data engineer.
+Innovative Software Engineer with a solid foundation in software development, big data, machine learning, and data science. Skilled in building secure and scalable big data and machine learning applications using Python, Java, SQL, Azure and AWS. A dedicated independent engineer and adaptable team player, seeking a role in a company with challenging tasks that encourage growth and development overall, and as a software engineer, cloud engineer, or data engineer.
 
 ---
 
