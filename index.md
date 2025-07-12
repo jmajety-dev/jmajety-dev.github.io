@@ -19,7 +19,7 @@ Location: Sunnyvale, CA
 # About Me
 <a id="about-me"></a>
 
-Innovative Software Engineer with a solid foundation in software development, big data, machine learning, and data science. Skilled in building secure and scalable big data and machine learning applications using Python, Java, SQL, Azure and AWS. A dedicated independent engineer and adaptable team player, seeking a role in a company with challenging tasks that encourage growth and development overall, and as a software engineer, cloud engineer, or data engineer.
+Innovative Software Engineer with a solid foundation in software development, big data, machine learning, and data science. Skilled in building secure and scalable big data and machine learning applications using Python, Java, Javascript, SQL, and AWS. A dedicated independent engineer and adaptable team player, seeking a role in a company with challenging tasks that encourage growth and development overall, and as a software engineer, cloud engineer, or data engineer.
 
 ---
 
@@ -28,13 +28,13 @@ Innovative Software Engineer with a solid foundation in software development, bi
 
 **Programming Languages**: Java, C, Python, C++, Scala, HTML, CSS, JavaScript, C#, PHP, ABAP, Linux
 
-**Frameworks**: React, Flask, Node.js, Django, PySpark, Hadoop, REST API, Terraform, Snowflake
+**Frameworks**: React, Flask, Node.js, Django, PySpark, Hadoop, REST API, Terraform
 
-**Tools**: ETL, Kafka, Docker, Power BI, Tableau, Hive, Autopsy, Vera-Crypt
+**Tools**: ETL, Snowflake, Databricks,Kafka, Docker, Power BI, Tableau, Hive, Autopsy, Vera-Crypt
 
-**Databases**: MySQL, No-SQL, Firebase, AWS S3, AWS Relational Data Service
+**Databases**: MySQL, No-SQL, MS-SQL, MongoDB, Firebase, AWS Relational Data Service
 
-**Technical Expertise**: Git, GitHub, AWS EC2, AWS EMR, AWS Snapshots, AWS CloudFormation, AWS Airflow, Google Sheets
+**Technical Expertise**: Git, GitHub, Azure DevOps, AWS EC2, AWS EMR, AWS Snapshots, AWS CloudFormation, AWS Airflow, Google Sheets
 
 **Additional Skills**: Software Development, Data Analysis, Schema Design, Data Modeling, Data Maintenance, CICD, Agile Development, Version Control, Data Science, Machine Learning, Statistics, Big Data, Test Automation, Business Intelligence, Technical Writing
 
